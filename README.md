@@ -1,6 +1,7 @@
-Mixed Messages
-=====
-About the project:
-+ my first project ever on node.js
-	code will be simple, I just need to get familiar with VS code, GitHub, Node.js etc
-+ to print out an inspirational message everytime you run the program
+# Mixed Messages
+### Purpose of this project:
++ My first local .js project ever
+	Code will be simple
++ Getting familiar with VS code, GitHub, Node.js
+### This app will:
++ Print out a weird inspirational message everytime you run the program.
